@@ -1,26 +1,36 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    SANGHYUN PARK — DEVELOPER                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
+
 <!-- Animated waving header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:00FF41&height=220&section=header&text=%24%20./sanghyun.sh&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=~%2010%2B%20years%20crafting%20the%20web%20~&descAlignY=60&descSize=16&descColor=7DF9FF&animation=fadeIn" />
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=720&height=100&lines=%24+sudo+apt+install+curiosity;%24+git+commit+-m+%22still+shipping+since+2016%22;%24+while+true%3B+do+code+%26%26+learn%3B+done" alt="Typing SVG" />
 </a>
+
 <br/>
+
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LOCATION-SEOUL_KR-7DF9FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/CAREER-10Y_6M-FF00FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/ROLE-과장-FFD700?style=for-the-badge&labelColor=0D1117" />
+
 </div>
+
 ---
-`> whoami`
+
+## `> whoami`
+
 ```console
 ┌──(sanghyun㉿dev)-[~]
 └─$ cat /etc/profile
 ```
+
 ```ini
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [ IDENTITY ]                                                    ║
@@ -40,12 +50,16 @@
 ║    > "레거시도 누군가의 현역이다"                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
 ---
-`> ls ./tech-stack/`
+
+## `> ls ./tech-stack/`
+
 <table>
 <tr>
 <td valign="top" width="33%">
-`📁 backend/`
+
+### `📁 backend/`
 <p>
 <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
 <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
@@ -55,9 +69,11 @@
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=databricks&logoColor=ff6a00" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
 </p>
+
 </td>
 <td valign="top" width="33%">
-`📁 frontend/`
+
+### `📁 frontend/`
 <p>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -66,9 +82,11 @@
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=java&logoColor=white" />
 </p>
+
 </td>
 <td valign="top" width="33%">
-`📁 mobile-etc/`
+
+### `📁 mobile-etc/`
 <p>
 <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" />
 <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2" />
@@ -78,14 +96,19 @@
 <img src="https://img.shields.io/badge/SVN-000000?style=flat-square&logo=subversion&logoColor=809CC9" />
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
+
 </td>
 </tr>
 </table>
+
 ---
-`> cat career.log`
+
+## `> cat career.log`
+
 ```console
 $ git log --graph --format="%ai  %s"
 ```
+
 ```diff
 * 2025-11 ─ ㈜릴레이브랜드 · 개발팀 과장 · 재직중
 |           + KB증권 리서치 홈페이지 유지보수 & 신규기능 개발
@@ -110,20 +133,34 @@ $ git log --graph --format="%ai  %s"
             + 가상오피스 · 웹게임 사이트 신규 개발
             + 공유오피스 사이트 개발 및 유지보수
 ```
+
 ---
-`> ./github-stats --verbose`
+
+## `> ./github-stats --verbose`
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh0dev&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=7DF9FF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0dev&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=7DF9FF" />
+
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh0dev&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=7DF9FF&sideLabels=FFD700" />
+
 <br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=sh0dev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 <br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh0dev&bg_color=0D1117&color=00FF41&line=FF00FF&point=7DF9FF&hide_border=true&area=true&area_color=00FF41" />
+
 </div>
+
 ---
-`> ps aux | grep projects`
+
+## `> ps aux | grep projects`
+
 ```bash
  PID  PROJECT                    STACK                        YEARS
  ───  ─────────────────────────  ───────────────────────────  ─────────
@@ -137,20 +174,31 @@ $ git log --graph --format="%ai  %s"
  008  화장품 쇼핑몰 (누리숲)     PHP · MySQL · SNS/PG         2016-2018
  009  웹게임 사이트 (놀짱)       PHP · MySQL · API연동        2016-2017
 ```
+
 > 📌 **전문 분야**: 결제 PG 연동 · 카카오 알림톡 · 본인인증 · SNS 로그인 · 하이브리드 앱 · 레거시 시스템 유지보수
+
 ---
-`> cat achievements.txt`
+
+## `> cat achievements.txt`
+
 <div align="center">
-🏆	Award	Year
-🥉	경상북도 지방기능경기대회 웹디자인·개발 동메달	2014
-🥈	경상북도 지방기능경기대회 웹디자인·개발 은메달	2015
-🏅	제50회 전국기능경기대회 웹디자인·개발 우수상(4위)	2015
-📜	정보처리기능사 · 전기기능사 · 웹디자인기능사 · 전자캐드기능사	2013–2015
-📱	모바일앱개발전문가 2급	2014
+
+| 🏆 | Award | Year |
+|:---:|:---|:---:|
+| 🥉 | 경상북도 지방기능경기대회 웹디자인·개발 **동메달** | 2014 |
+| 🥈 | 경상북도 지방기능경기대회 웹디자인·개발 **은메달** | 2015 |
+| 🏅 | 제50회 **전국기능경기대회** 웹디자인·개발 **우수상(4위)** | 2015 |
+| 📜 | 정보처리기능사 · 전기기능사 · 웹디자인기능사 · 전자캐드기능사 | 2013–2015 |
+| 📱 | 모바일앱개발전문가 2급 | 2014 |
+
 </div>
+
 ---
-`> ./contact.sh`
+
+## `> ./contact.sh`
+
 <div align="center">
+
 <a href="mailto:abs2069@naver.com">
   <img src="https://img.shields.io/badge/NAVER-000000?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0D1117" />
 </a>
@@ -161,20 +209,29 @@ $ git log --graph --format="%ai  %s"
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" />
 </a>
 <img src="https://img.shields.io/badge/CAREER-10Y_6M-000000?style=for-the-badge&logo=hackthebox&logoColor=FF00FF&labelColor=0D1117" />
+
 </div>
+
 ---
+
 <!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
 </div>
+
 ---
+
 <div align="center">
+
 ```console
 $ exit
 > logout
 > Connection to sanghyun closed.
 > See you in the next commit 🚀
 ```
+
 <img src="https://komarev.com/ghpvc/?username=sh0dev&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:1A1F2E,100:0D1117&height=100&section=footer" />
+
 </div>
