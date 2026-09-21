@@ -1,235 +1,140 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    SANGHYUN PARK — DEVELOPER                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:00FF41&height=220&section=header&text=%24%20./sanghyun.sh&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=~%2010%2B%20years%20crafting%20the%20web%20~&descAlignY=60&descSize=16&descColor=7DF9FF&animation=fadeIn" />
+# 안녕하세요, 박상현입니다 👋
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=720&height=100&lines=%24+sudo+apt+install+curiosity;%24+git+commit+-m+%22still+shipping+since+2016%22;%24+while+true%3B+do+code+%26%26+learn%3B+done" alt="Typing SVG" />
-</a>
+**10년 차 풀스택 웹 개발자**<br>
+PHP 기반 서비스의 1인 백엔드부터 Laravel·React 플랫폼 리뉴얼, Flutter 앱,<br>
+대기업 SI 신규 구축, 증권사 레거시 Java 시스템 운영까지 경험했습니다.
 
-<br/>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LOCATION-SEOUL_KR-7DF9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CAREER-10Y_6M-FF00FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ROLE-과장-FFD700?style=for-the-badge&labelColor=0D1117" />
+[![Email](https://img.shields.io/badge/Email-abs2069%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:abs2069@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sh0dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sh0dev)
 
 </div>
 
 ---
 
-## `> whoami`
+## 🙋 About Me
 
-```console
-┌──(sanghyun㉿dev)-[~]
-└─$ cat /etc/profile
-```
-
-```ini
-╔══════════════════════════════════════════════════════════════════╗
-║  [ IDENTITY ]                                                    ║
-║    name        = "박상현 (Park Sanghyun)"                         ║
-║    title       = "Full-Stack Web Developer · 과장"                ║
-║    company     = "㈜릴레이브랜드"                                  ║
-║    since       = "2016-01-01"  # 10+ years in the trenches        ║
-║    location    = "Seoul, KR 🇰🇷"                                 ║
-║                                                                  ║
-║  [ CURRENT MISSION ]                                             ║
-║    🔭 KB증권 리서치 홈페이지 유지보수 & 신규기능 개발               ║
-║    🏢 회사 소개 홈페이지 구축                                      ║
-║                                                                  ║
-║  [ PHILOSOPHY ]                                                  ║
-║    > "make it work → make it right → make it fast"               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- 🏢 현재 **㈜릴레이브랜드** 개발팀에서 **KB증권 리서치센터 웹 플랫폼**을 운영·고도화하고 있습니다.
+- 🔍 JDK 마이그레이션, SSO 쿠키, SSL/TLS 오류처럼 **원인을 끝까지 추적해야 하는 운영 이슈**에 강합니다.
+- 🔗 회원·본인인증·PG 결제·가상계좌·알림톡 등 **서비스 핵심 연동**을 직접 설계하고 운영해 왔습니다.
+- 🤝 외부 개발자·고객사·솔루션 엔지니어 사이에서 **조율 역할**을 즐겨 맡습니다.
+- 📚 한국방송통신대학교 컴퓨터과학과에서 CS 기초를 다지고 있습니다.
+- 🏅 전국기능경기대회 웹디자인 및 개발 부문 **우수상(4위)** 수상 (2015)
 
 ---
 
-## `> ls ./tech-stack/`
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Backend**<br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### `📁 backend/`
-<p>
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/CodeIgniter-000000?style=flat-square&logo=codeigniter&logoColor=EF4223" />
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=databricks&logoColor=ff6a00" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-</p>
+**Frontend & Mobile**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+**Database**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### `📁 frontend/`
-<p>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/jQuery-000000?style=flat-square&logo=jquery&logoColor=0769AD" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=java&logoColor=white" />
-</p>
+**Infra & WAS**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![JEUS](https://img.shields.io/badge/JEUS_8-0058A3?style=flat-square)
+![WebtoB](https://img.shields.io/badge/WebtoB-0058A3?style=flat-square)
 
-</td>
-<td valign="top" width="33%">
-
-### `📁 mobile-etc/`
-<p>
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2" />
-<img src="https://img.shields.io/badge/그누보드-000000?style=flat-square&logo=gnu&logoColor=A42E2B" />
-<img src="https://img.shields.io/badge/고도몰-000000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/SVN-000000?style=flat-square&logo=subversion&logoColor=809CC9" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
-</p>
-
-</td>
-</tr>
-</table>
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-## `> cat career.log`
+## 💼 Experience
 
-```console
-$ git log --graph --format="%ai  %s"
-```
-
-```diff
-* 2025-11 ─ ㈜릴레이브랜드 · 개발팀 과장 · 재직중
-|           + KB증권 리서치 홈페이지 유지보수 & 신규기능 개발
-|           + 회사 소개 홈페이지 작업
-|
-* 2024-06 ─ ㈜비즈위즈시스템 · 웹개발팀 주임 (1년 6개월)
-|           + 삼성 E&A 통신설계 플랫폼
-|
-* 2023-02 ─ ㈜키베이스 · 개발연구소 · 선임연구원 (1년 3개월)
-|           + 키덜트 C2C 경매 사이트 (고도몰 기반)
-|           + 외부 개발자 협업 · 내부 Git 관리
-|
-* 2021-05 ─ ㈜키메디 · 개발연구소 · 선임연구원 (1년 10개월)
-|           + 사이트 플랫폼 리뉴얼 (Laravel + React)
-|           + 제약사 전용관(복사사이트) 유지보수
-|           + Flutter 앱 개발 · 푸쉬 & 오퍼월 이벤트 연동
-|           + 카카오 알림톡 템플릿 / 메인↔전용관 API 연동
-|
-* 2016-01 ─ ㈜이비즈네트웍스 · 개발팀 주임 (5년 5개월)
-            + 화장품 쇼핑몰 (SNS/PG/알림톡)
-            + P2P 펀딩 사이트 개발 (본인인증, 가상계좌, 자동투자)
-            + 가상오피스 · 웹게임 사이트 신규 개발
-            + 공유오피스 사이트 개발 및 유지보수
-```
+| 기간 | 회사 | 직무 | 주요 업무 |
+|---|---|---|---|
+| 2025.11 ~ 현재 | ㈜릴레이브랜드 | 개발팀 · 과장 | KB증권 리서치센터 웹 플랫폼 유지보수·고도화 |
+| 2024.06 ~ 2025.10 | ㈜비즈위즈시스템 | SI 2팀 · 대리 | 삼성 E&A 통신설계 플랫폼(TAP) 신규 개발, FAP 유지보수 |
+| 2021.05 ~ 2024.03 | ㈜키메디 | ICT 개발실 · 선임연구원 | 의사 플랫폼 리뉴얼(Laravel/React), Flutter 앱, 제약사 전용관 |
+| 2016.01 ~ 2021.04 | ㈜이비즈네트웍스 | 개발팀 · 주임 | P2P 펀딩·쇼핑몰·가상오피스 등 자사 서비스 백엔드 |
 
 ---
 
-## `> ./github-stats --verbose`
+## 🚀 Featured Work
 
-<div align="center">
+### 📈 KB증권 리서치센터 웹 플랫폼 · 2025.11 ~
+`Java 1.7/1.8` `Spring MVC` `WebFlux` `MyBatis` `MSSQL` `JEUS 8` `WebtoB`
+- Spring WebFlux 기반 **AI 챗봇 API 연동**
+- SameSite 미지원 WebtoB 환경에서 **크로스 사이트 iframe SSO 인증 문제** 해결
+- **JDK 1.7 → 1.8 마이그레이션** 중 MSSQL TLS 핸드셰이크 오류 분석 및 대응
+- 해외 사용자 **타임존 버그** 수정, 리포트 **차트 라벨 겹침** 개선
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh0dev&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=7DF9FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0dev&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=7DF9FF" />
+### 🏗 삼성 E&A 통신설계 플랫폼 (TAP / FAP) · 2024.06 ~ 2025.02
+`Java` `Spring` `JPA` `MySQL`
+- 통신설계 플랫폼 **신규 구축** 백엔드 개발
+- 운영 중인 기존 시스템(FAP) 유지보수·기능 개발 병행
 
-<br/>
+### 🩺 의사 플랫폼 리뉴얼 & 앱 · 2021.06 ~ 2024.02
+`Laravel` `React` `Flutter` `MySQL` `AWS` `Docker`
+- 그누보드 기반 사이트를 **Laravel + React 구조로 리뉴얼** (6인 팀)
+- Flutter 기반 In-App WebView 앱, 푸시·오퍼월 연동
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh0dev&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=7DF9FF&sideLabels=FFD700" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sh0dev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh0dev&bg_color=0D1117&color=00FF41&line=FF00FF&point=7DF9FF&hide_border=true&area=true&area_color=00FF41" />
-
-</div>
-
----
-
-## `> ps aux | grep projects`
-
-```bash
- PID  PROJECT                    STACK                        YEARS
- ───  ─────────────────────────  ───────────────────────────  ─────────
- 001  KB증권 리서치              Java · Spring · MyBatis      current
- 002  릴레이브랜드 소개사이트     Full-stack                   current
- 003  키메디 플랫폼 리뉴얼       Laravel · React · MySQL      2021-2024
- 004  키메디 Flutter 앱          Flutter · Laravel            2023-2024
- 005  키덜트 C2C 경매            고도몰 · PHP                 2023
- 006  P2P 펀딩 (누리펀딩)        PHP · MySQL · PG연동         2018-2021
- 007  가상오피스 (온비즈)        PHP · MySQL · 전자계약        2017-2019
- 008  화장품 쇼핑몰 (누리숲)     PHP · MySQL · SNS/PG         2016-2018
- 009  웹게임 사이트 (놀짱)       PHP · MySQL · API연동        2016-2017
-```
-
-> 📌 **전문 분야**: 풀스택 웹개발 · 결제 PG 연동 · 카카오 알림톡 · 본인인증 · SNS 로그인 · 하이브리드 앱 · 시스템 유지보수
+### 💰 P2P 펀딩 플랫폼 · 2018.01 ~ 2021.04
+`PHP` `MySQL` `Linux`
+- **1인 백엔드 전담** — 본인인증, 가상계좌 발급·투자·출금·상환 API 연동
+- 대출 신청·투자 프로세스, 자동투자 기능 개발
 
 ---
 
-## `> cat achievements.txt`
+## 🌱 Side Projects
 
-<div align="center">
+### 오너라 (ONEOLA) — B2S 렌탈 관리 통합 플랫폼 · 진행중
+`Java 17` `Spring Boot 3` `Spring Security(JWT)` `Spring Batch` `MariaDB` `React + Vite`
+- **백엔드 PL** 및 백엔드 개발
+- 사용자·관리자 API 분리 구조(`/api/user/**`, `/api/admin/**`)와 도메인별 계층형 아키텍처 설계
+- Jasypt·AES 설정 암호화, Stateless JWT 보안, Swagger 문서화
+- Claude Code·Figma MCP를 활용한 AI 기반 개발 워크플로
 
-| 🏆 | Award | Year |
-|:---:|:---|:---:|
-| 🥉 | 경상북도 지방기능경기대회 웹디자인·개발 **동메달** | 2014 |
-| 🥈 | 경상북도 지방기능경기대회 웹디자인·개발 **은메달** | 2015 |
-| 🏅 | 제50회 **전국기능경기대회** 웹디자인·개발 **우수상(4위)** | 2015 |
-| 📜 | 정보처리기능사 · 전기기능사 · 웹디자인기능사 · 전자캐드기능사 | 2013–2015 |
-| 📱 | 모바일앱개발전문가 2급 | 2014 |
-
-</div>
-
----
-
-## `> ./contact.sh`
-
-<div align="center">
-
-<a href="mailto:abs2069@naver.com">
-  <img src="https://img.shields.io/badge/NAVER-000000?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0D1117" />
-</a>
-<a href="mailto:abs1596@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" />
-</a>
-<a href="https://github.com/sh0dev">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" />
-</a>
-<img src="https://img.shields.io/badge/CAREER-10Y_6M-000000?style=for-the-badge&logo=hackthebox&logoColor=FF00FF&labelColor=0D1117" />
-
-</div>
+### 주물러 (jumulleo.co.kr) — 모바일 예약 플랫폼 · 2025.08 ~ 2026.03
+`Spring Boot` `MySQL` `NicePay` `Flutter`
+- 3인 팀 **백엔드 개발** 담당
+- 사용자 앱·사장님 앱·관리자 페이지를 지원하는 예약 플랫폼 REST API
+- NicePay 결제 연동 및 Flutter WebView 결제 흐름 처리
 
 ---
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
-</div>
+## 🎓 Education & Certifications
+
+- 🎓 한국방송통신대학교 컴퓨터과학과 (재학중)
+- 🏫 포항제철공업고등학교 전기전자과 (졸업)
+- 🏅 제50회 전국기능경기대회 웹디자인 및 개발 부문 우수상(4위)
+- 📜 정보처리기능사 · 웹디자인기능사 · 모바일앱개발전문가 2급 · 전기기능사
 
 ---
 
 <div align="center">
 
-```console
-$ exit
-> logout
-> Connection to sanghyun closed.
-> See you in the next commit 🚀
-```
-
-<img src="https://komarev.com/ghpvc/?username=sh0dev&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:1A1F2E,100:0D1117&height=100&section=footer" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh0dev&show_icons=true&theme=default&hide_border=true)
 
 </div>
